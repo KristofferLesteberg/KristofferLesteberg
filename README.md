@@ -1,1 +1,6 @@
-![Arch Linux Logo](https://archlinux.org/static/branding/arch-logo.svg)
+      /\
+     /  \      __
+    / /\ \    /  \
+   / /__\ \  / /\ \
+  / ______ \/ /__\ \
+ /_/      \__/____\_\
