@@ -1,6 +1,4 @@
-root@kris:~neofetch
-
-
+    root@kris:~neofetch
 
 
 
